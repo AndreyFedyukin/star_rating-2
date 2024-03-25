@@ -4,7 +4,7 @@
 
 Ещё один шаблон для голосования с помощью создания звездного рейтинга с анимацией с использованием JS
 
-Ссылка на сайт <https://andreyfedyukin.github.io/Library_star-2/>
+Ссылка на сайт <https://andreyfedyukin.github.io/star_rating-2/>
 
 ---
 
